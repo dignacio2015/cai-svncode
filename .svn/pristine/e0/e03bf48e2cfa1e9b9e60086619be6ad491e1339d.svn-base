@@ -1,0 +1,99 @@
+object FormNeuralWebServer: TFormNeuralWebServer
+  Left = 456
+  Height = 202
+  Top = 136
+  Width = 290
+  BorderStyle = bsDialog
+  Caption = 'Simple Neural Web Server Example'
+  ClientHeight = 202
+  ClientWidth = 290
+  OnClose = FormClose
+  OnCreate = FormCreate
+  Position = poScreenCenter
+  LCLVersion = '1.6.4.0'
+  object Label1: TLabel
+    Left = 24
+    Height = 20
+    Top = 16
+    Width = 29
+    Caption = 'Port:'
+    ParentColor = False
+  end
+  object EdPort: TEdit
+    Left = 72
+    Height = 28
+    Top = 16
+    Width = 113
+    TabOrder = 0
+    Text = '80'
+  end
+  object LabBind: TLabel
+    Left = 24
+    Height = 20
+    Top = 56
+    Width = 33
+    Caption = 'Bind:'
+    ParentColor = False
+  end
+  object EdBind: TEdit
+    Left = 72
+    Height = 28
+    Top = 56
+    Width = 113
+    TabOrder = 1
+    Text = '127.0.0.1'
+  end
+  object BitBtnStart: TBitBtn
+    Left = 24
+    Height = 30
+    Top = 160
+    Width = 75
+    Caption = 'Start'
+    OnClick = BitBtnStartClick
+    TabOrder = 2
+  end
+  object BitStop: TBitBtn
+    Left = 110
+    Height = 30
+    Top = 160
+    Width = 75
+    Caption = 'Stop'
+    Enabled = False
+    OnClick = BitStopClick
+    TabOrder = 3
+  end
+  object BitClose: TBitBtn
+    Left = 200
+    Height = 30
+    Top = 160
+    Width = 75
+    Caption = 'Close'
+    OnClick = BitCloseClick
+    TabOrder = 4
+  end
+  object ButLoad: TButton
+    Left = 24
+    Height = 25
+    Top = 128
+    Width = 161
+    Caption = 'Load Neural Network'
+    OnClick = ButLoadClick
+    TabOrder = 5
+  end
+  object CheckLogs: TCheckBox
+    Left = 24
+    Height = 24
+    Top = 96
+    Width = 108
+    Caption = 'Display Logs'
+    Checked = True
+    State = cbChecked
+    TabOrder = 6
+  end
+  object OpenDialogNN: TOpenDialog
+    DefaultExt = '.nn'
+    Filter = 'Neural Network|*.nn|All Files|*.*'
+    left = 224
+    top = 24
+  end
+end

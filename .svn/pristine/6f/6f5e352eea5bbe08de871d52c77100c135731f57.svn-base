@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="14">
+      <Unit0>
+        <Filename Value="PMinera.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="UFRob1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="712"/>
+        <CursorPos X="14" Y="744"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="UForOptMin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormOpt"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="32"/>
+        <CursorPos X="23" Y="64"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="UVPlan.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormViewPlans"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos X="109" Y="8"/>
+        <UsageCount Value="101"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../libs/Ufway44.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="168"/>
+        <CursorPos X="28" Y="183"/>
+        <UsageCount Value="101"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../libs/uab.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UAB"/>
+        <TopLine Value="60"/>
+        <CursorPos X="6" Y="77"/>
+        <UsageCount Value="101"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../libs/ubup3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UBUP3"/>
+        <TopLine Value="162"/>
+        <CursorPos X="17" Y="181"/>
+        <UsageCount Value="101"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../libs/udum.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UDUM"/>
+        <TopLine Value="234"/>
+        <CursorPos X="25" Y="259"/>
+        <UsageCount Value="101"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../libs/ugeneric.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="10"/>
+        <CursorPos X="15" Y="26"/>
+        <UsageCount Value="31"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="oldcode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="5" Y="20"/>
+        <UsageCount Value="26"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../libs/uabfun.pas"/>
+        <UnitName Value="UABFUN"/>
+        <CursorPos X="3" Y="295"/>
+        <UsageCount Value="50"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../libs/UCashST2.pas"/>
+        <TopLine Value="19"/>
+        <CursorPos X="14" Y="117"/>
+        <UsageCount Value="41"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="URobMin2.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="14"/>
+        <CursorPos X="18" Y="30"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="/usr/share/fpcsrc/2.6.0/rtl/inc/systemh.inc"/>
+        <TopLine Value="456"/>
+        <CursorPos X="3" Y="472"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="401" Column="18" TopLine="374"/>
+      </Position1>
+      <Position2>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="20" Column="26" TopLine="19"/>
+      </Position2>
+      <Position3>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="37" Column="26" TopLine="19"/>
+      </Position3>
+      <Position4>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="189" Column="35" TopLine="162"/>
+      </Position4>
+      <Position5>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="230" Column="23" TopLine="204"/>
+      </Position5>
+      <Position6>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="264" Column="13" TopLine="238"/>
+      </Position6>
+      <Position7>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="306" Column="33" TopLine="280"/>
+      </Position7>
+      <Position8>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="330" Column="26" TopLine="304"/>
+      </Position8>
+      <Position9>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="377" Column="21" TopLine="351"/>
+      </Position9>
+      <Position10>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="141" Column="16" TopLine="123"/>
+      </Position10>
+      <Position11>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="184" Column="29" TopLine="152"/>
+      </Position11>
+      <Position12>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="21" Column="5" TopLine="5"/>
+      </Position12>
+      <Position13>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="157" Column="9" TopLine="142"/>
+      </Position13>
+      <Position14>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="49" Column="15" TopLine="23"/>
+      </Position14>
+      <Position15>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="38" Column="20" TopLine="23"/>
+      </Position15>
+      <Position16>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="138" Column="24" TopLine="136"/>
+      </Position16>
+      <Position17>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="136" Column="33" TopLine="121"/>
+      </Position17>
+      <Position18>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="35" Column="41" TopLine="18"/>
+      </Position18>
+      <Position19>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="138" Column="46" TopLine="130"/>
+      </Position19>
+      <Position20>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="141" Column="16" TopLine="130"/>
+      </Position20>
+      <Position21>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="506" Column="16" TopLine="500"/>
+      </Position21>
+      <Position22>
+        <Filename Value="UForOptMin.pas"/>
+        <Caret Line="8" Column="20"/>
+      </Position22>
+      <Position23>
+        <Filename Value="UForOptMin.pas"/>
+        <Caret Line="56" Column="3" TopLine="32"/>
+      </Position23>
+      <Position24>
+        <Filename Value="UForOptMin.pas"/>
+        <Caret Line="55" Column="3" TopLine="31"/>
+      </Position24>
+      <Position25>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="680" Column="63" TopLine="671"/>
+      </Position25>
+      <Position26>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="290" Column="44" TopLine="285"/>
+      </Position26>
+      <Position27>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="120" Column="26" TopLine="103"/>
+      </Position27>
+      <Position28>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="697" Column="24" TopLine="673"/>
+      </Position28>
+      <Position29>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="688" Column="5" TopLine="674"/>
+      </Position29>
+      <Position30>
+        <Filename Value="UFRob1.pas"/>
+        <Caret Line="531" Column="3" TopLine="527"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="../libs/udum.pas"/>
+        <Line Value="23"/>
+      </Item1>
+    </BreakPoints>
+    <Watches Count="2">
+      <Item1>
+        <Expression Value="FUseCache"/>
+      </Item1>
+      <Item2>
+        <Expression Value="pActions"/>
+      </Item2>
+    </Watches>
+  </Debugging>
+</CONFIG>

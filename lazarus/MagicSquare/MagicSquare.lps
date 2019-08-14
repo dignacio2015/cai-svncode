@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="MagicSquare.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="5"/>
+        <CursorPos X="89" Y="9"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="quada6g.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="506"/>
+        <CursorPos X="39" Y="552"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uabout.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="27" Y="7"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="uabout.dfm"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="MagicSquare.lpr"/>
+      </Position1>
+      <Position2>
+        <Filename Value="MagicSquare.lpr"/>
+        <Caret Line="17" Column="62"/>
+      </Position2>
+      <Position3>
+        <Filename Value="MagicSquare.lpr"/>
+        <Caret Line="6" Column="52"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uabout.pas"/>
+        <Caret Line="27" Column="10" TopLine="2"/>
+      </Position4>
+      <Position5>
+        <Filename Value="quada6g.pas"/>
+        <Caret Line="8" Column="57"/>
+      </Position5>
+      <Position6>
+        <Filename Value="quada6g.pas"/>
+        <Caret Line="256" Column="21" TopLine="244"/>
+      </Position6>
+      <Position7>
+        <Filename Value="quada6g.pas"/>
+        <Caret Line="338" Column="19" TopLine="325"/>
+      </Position7>
+      <Position8>
+        <Filename Value="quada6g.pas"/>
+        <Caret Line="421" Column="7" TopLine="409"/>
+      </Position8>
+      <Position9>
+        <Filename Value="quada6g.pas"/>
+        <Caret Line="420" Column="23" TopLine="409"/>
+      </Position9>
+      <Position10>
+        <Filename Value="quada6g.pas"/>
+        <Caret Line="432" Column="48" TopLine="420"/>
+      </Position10>
+      <Position11>
+        <Filename Value="quada6g.pas"/>
+        <Caret Line="450" Column="71" TopLine="438"/>
+      </Position11>
+      <Position12>
+        <Filename Value="quada6g.pas"/>
+        <Caret Line="91" Column="45" TopLine="78"/>
+      </Position12>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
